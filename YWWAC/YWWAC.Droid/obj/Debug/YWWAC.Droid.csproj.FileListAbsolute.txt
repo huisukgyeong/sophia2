@@ -311,5 +311,11 @@ C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droi
 C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\res\drawable\h1.png
 C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\res\drawable\h2.png
 C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\res\drawable\h3.png
+C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\bin\Debug\MvvmCross.Plugins.PhoneCall.dll
+C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\bin\Debug\MvvmCross.Plugins.PhoneCall.Droid.dll
+C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\bin\Debug\MvvmCross.Plugins.PhoneCall.dll.mdb
+C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\res\layout\contactview2.xml
+C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\MvvmCross.Plugins.PhoneCall.dll.mdb
+C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\res\layout\newsview.xml
 C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\YWWAC.Droid.dll.mdb
 C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\bin\Debug\YWWAC.Droid.dll.mdb

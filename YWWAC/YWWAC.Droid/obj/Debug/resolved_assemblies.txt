@@ -15,6 +15,8 @@ C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droi
 C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\MvvmCross.Localization.dll
 C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\MvvmCross.Platform.dll
 C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\MvvmCross.Platform.Droid.dll
+C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\MvvmCross.Plugins.PhoneCall.dll
+C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\MvvmCross.Plugins.PhoneCall.Droid.dll
 C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\Newtonsoft.Json.dll
 C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\SQLite.Net.dll
 C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\SQLite.Net.Platform.XamarinAndroid.dll

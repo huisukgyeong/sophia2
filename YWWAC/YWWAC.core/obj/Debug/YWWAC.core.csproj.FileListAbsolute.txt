@@ -47,3 +47,13 @@ C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.core
 C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.core\bin\Debug\Newtonsoft.Json.xml
 C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.core\obj\Debug\YWWAC.core.dll
 C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.core\obj\Debug\YWWAC.core.pdb
+C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.core\obj\Debug\YWWAC.core.csprojResolveAssemblyReference.cache
+C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.core\bin\Debug\MvvmCross.Plugins.PhoneCall.dll
+C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.core\obj\Debug\YWWAC.core.dll.mdb
+C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.core\bin\Debug\YWWAC.core.dll.mdb
+C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.core\obj\Debug\YWWAC.core.dll.mdb
+C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.core\bin\Debug\YWWAC.core.dll.mdb
+C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.core\obj\Debug\YWWAC.core.dll.mdb
+C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.core\bin\Debug\YWWAC.core.dll.mdb
+C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.core\obj\Debug\YWWAC.core.dll.mdb
+C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.core\bin\Debug\YWWAC.core.dll.mdb
