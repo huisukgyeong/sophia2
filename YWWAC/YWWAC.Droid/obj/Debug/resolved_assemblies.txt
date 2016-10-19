@@ -1,53 +1,53 @@
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\YWWAC.Droid.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\Java.Interop.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\Mono.Android.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\Mono.Android.Export.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\mscorlib.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Core.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Xml.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Xml.Linq.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\MvvmCross.Binding.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\MvvmCross.Binding.Droid.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\MvvmCross.Core.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\MvvmCross.Droid.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\MvvmCross.Droid.Shared.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\MvvmCross.Localization.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\MvvmCross.Platform.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\MvvmCross.Platform.Droid.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\MvvmCross.Plugins.PhoneCall.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\MvvmCross.Plugins.PhoneCall.Droid.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\Newtonsoft.Json.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\SQLite.Net.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\SQLite.Net.Platform.XamarinAndroid.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\YWWAC.core.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Threading.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Runtime.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Collections.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Collections.Concurrent.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Diagnostics.Debug.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Reflection.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Linq.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Runtime.InteropServices.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Runtime.Extensions.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Reflection.Extensions.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Net.Http.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Linq.Expressions.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.ObjectModel.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Globalization.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Threading.Tasks.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Resources.ResourceManager.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.IO.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Xml.XDocument.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Dynamic.Runtime.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Text.RegularExpressions.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Text.Encoding.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Text.Encoding.Extensions.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\Mono.CSharp.dll
-C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Net.Requests.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\YWWAC.Droid.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\Java.Interop.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\Mono.Android.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\Mono.Android.Export.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\mscorlib.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Core.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Xml.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Xml.Linq.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\MvvmCross.Binding.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\MvvmCross.Binding.Droid.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\MvvmCross.Core.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\MvvmCross.Droid.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\MvvmCross.Droid.Shared.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\MvvmCross.Localization.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\MvvmCross.Platform.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\MvvmCross.Platform.Droid.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\MvvmCross.Plugins.PhoneCall.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\MvvmCross.Plugins.PhoneCall.Droid.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\Newtonsoft.Json.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\SQLite.Net.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\YWWAC.core.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Threading.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Runtime.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Collections.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Collections.Concurrent.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Diagnostics.Debug.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Reflection.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Linq.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Runtime.InteropServices.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Runtime.Extensions.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Reflection.Extensions.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Net.Http.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Linq.Expressions.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.ObjectModel.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Globalization.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Threading.Tasks.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Resources.ResourceManager.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.IO.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Xml.XDocument.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Dynamic.Runtime.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Text.RegularExpressions.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Text.Encoding.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Text.Encoding.Extensions.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\Mono.CSharp.dll
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\android\assets\System.Net.Requests.dll

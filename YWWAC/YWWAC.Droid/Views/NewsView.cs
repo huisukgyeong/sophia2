@@ -12,7 +12,7 @@ using Android.Widget;
 namespace YWWAC.Droid.Views
 {
     [Activity(Label = "News")]
-    public class NewsView : Activity
+    public class NewsView : MvxActivity
     {
         int count = 1;
         private List<string> mItems;

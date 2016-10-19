@@ -2,28 +2,28 @@
 <Paths>
   <Jars></Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Binding.Droid\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Droid\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Shared\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Platform.Droid\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Plugins.PhoneCall.Droid\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\SQLite.Net.Platform.XamarinAndroid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Binding.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Shared\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Platform.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Plugins.PhoneCall.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\SQLite.Net.Platform.XamarinAndroid\library_project_imports\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
-    <ResolvedAssetDirectory>C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Binding.Droid\library_project_imports\assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Droid\library_project_imports\assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Shared\library_project_imports\assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Platform.Droid\library_project_imports\assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Plugins.PhoneCall.Droid\library_project_imports\assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\SQLite.Net.Platform.XamarinAndroid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Binding.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Shared\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Platform.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Plugins.PhoneCall.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\SQLite.Net.Platform.XamarinAndroid\library_project_imports\assets</ResolvedAssetDirectory>
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Binding.Droid.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Shared.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Platform.Droid.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Plugins.PhoneCall.Droid.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\huisukgyeong\Downloads\sophia-master (1)\sophia-master\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\SQLite.Net.Platform.XamarinAndroid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Binding.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Shared.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Platform.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\MvvmCross.Plugins.PhoneCall.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\__library_projects__\SQLite.Net.Platform.XamarinAndroid.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>

@@ -1,8 +1,8 @@
-package md5f60cb25cf67aec87462671c9e2811eb9;
+package mvvmcross.platform.droid.views;
 
 
-public abstract class MvxEventSourceTabActivity
-	extends android.app.TabActivity
+public abstract class MvxEventSourceActivity
+	extends android.app.Activity
 	implements
 		mono.android.IGCUserPeer
 {
@@ -18,19 +18,19 @@ public abstract class MvxEventSourceTabActivity
 			"n_onStart:()V:GetOnStartHandler\n" +
 			"n_onRestart:()V:GetOnRestartHandler\n" +
 			"n_onStop:()V:GetOnStopHandler\n" +
-			"n_onSaveInstanceState:(Landroid/os/Bundle;)V:GetOnSaveInstanceState_Landroid_os_Bundle_Handler\n" +
 			"n_startActivityForResult:(Landroid/content/Intent;I)V:GetStartActivityForResult_Landroid_content_Intent_IHandler\n" +
 			"n_onActivityResult:(IILandroid/content/Intent;)V:GetOnActivityResult_IILandroid_content_Intent_Handler\n" +
+			"n_onSaveInstanceState:(Landroid/os/Bundle;)V:GetOnSaveInstanceState_Landroid_os_Bundle_Handler\n" +
 			"";
-		mono.android.Runtime.register ("MvvmCross.Platform.Droid.Views.MvxEventSourceTabActivity, MvvmCross.Platform.Droid, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null", MvxEventSourceTabActivity.class, __md_methods);
+		mono.android.Runtime.register ("MvvmCross.Platform.Droid.Views.MvxEventSourceActivity, MvvmCross.Platform.Droid, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null", MvxEventSourceActivity.class, __md_methods);
 	}
 
 
-	public MvxEventSourceTabActivity () throws java.lang.Throwable
+	public MvxEventSourceActivity () throws java.lang.Throwable
 	{
 		super ();
-		if (getClass () == MvxEventSourceTabActivity.class)
-			mono.android.TypeManager.Activate ("MvvmCross.Platform.Droid.Views.MvxEventSourceTabActivity, MvvmCross.Platform.Droid, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+		if (getClass () == MvxEventSourceActivity.class)
+			mono.android.TypeManager.Activate ("MvvmCross.Platform.Droid.Views.MvxEventSourceActivity, MvvmCross.Platform.Droid, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 
@@ -98,14 +98,6 @@ public abstract class MvxEventSourceTabActivity
 	private native void n_onStop ();
 
 
-	public void onSaveInstanceState (android.os.Bundle p0)
-	{
-		n_onSaveInstanceState (p0);
-	}
-
-	private native void n_onSaveInstanceState (android.os.Bundle p0);
-
-
 	public void startActivityForResult (android.content.Intent p0, int p1)
 	{
 		n_startActivityForResult (p0, p1);
@@ -120,6 +112,14 @@ public abstract class MvxEventSourceTabActivity
 	}
 
 	private native void n_onActivityResult (int p0, int p1, android.content.Intent p2);
+
+
+	public void onSaveInstanceState (android.os.Bundle p0)
+	{
+		n_onSaveInstanceState (p0);
+	}
+
+	private native void n_onSaveInstanceState (android.os.Bundle p0);
 
 	private java.util.ArrayList refList;
 	public void monodroidAddReference (java.lang.Object obj)

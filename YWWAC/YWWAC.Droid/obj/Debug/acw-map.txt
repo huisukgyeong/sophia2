@@ -186,11 +186,11 @@ MvvmCross.Platform.Droid.MvxReplaceableJavaContainer, MvvmCross.Platform.Droid;m
 MvvmCross.Platform.Droid.MvxReplaceableJavaContainer, MvvmCross.Platform.Droid, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null;md5fbdfe15bdb740bba08c1f621e9dd1063.MvxReplaceableJavaContainer
 MvvmCross.Platform.Droid.MvxReplaceableJavaContainer;md5fbdfe15bdb740bba08c1f621e9dd1063.MvxReplaceableJavaContainer
 mvvmcross.platform.droid.MvxReplaceableJavaContainer;md5fbdfe15bdb740bba08c1f621e9dd1063.MvxReplaceableJavaContainer
-MvvmCross.Platform.Droid.Views.MvxEventSourceActivity, MvvmCross.Platform.Droid;md5f60cb25cf67aec87462671c9e2811eb9.MvxEventSourceActivity
-MvvmCross.Platform.Droid.Views.MvxEventSourceActivity, MvvmCross.Platform.Droid, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null;md5f60cb25cf67aec87462671c9e2811eb9.MvxEventSourceActivity
-MvvmCross.Platform.Droid.Views.MvxEventSourceActivity;md5f60cb25cf67aec87462671c9e2811eb9.MvxEventSourceActivity
-mvvmcross.platform.droid.views.MvxEventSourceActivity;md5f60cb25cf67aec87462671c9e2811eb9.MvxEventSourceActivity
-MvvmCross.Platform.Droid.Views.MvxEventSourceTabActivity, MvvmCross.Platform.Droid;md5f60cb25cf67aec87462671c9e2811eb9.MvxEventSourceTabActivity
-MvvmCross.Platform.Droid.Views.MvxEventSourceTabActivity, MvvmCross.Platform.Droid, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null;md5f60cb25cf67aec87462671c9e2811eb9.MvxEventSourceTabActivity
-MvvmCross.Platform.Droid.Views.MvxEventSourceTabActivity;md5f60cb25cf67aec87462671c9e2811eb9.MvxEventSourceTabActivity
-mvvmcross.platform.droid.views.MvxEventSourceTabActivity;md5f60cb25cf67aec87462671c9e2811eb9.MvxEventSourceTabActivity
+MvvmCross.Platform.Droid.Views.MvxEventSourceActivity, MvvmCross.Platform.Droid;mvvmcross.platform.droid.views.MvxEventSourceActivity
+MvvmCross.Platform.Droid.Views.MvxEventSourceActivity, MvvmCross.Platform.Droid, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.platform.droid.views.MvxEventSourceActivity
+MvvmCross.Platform.Droid.Views.MvxEventSourceActivity;mvvmcross.platform.droid.views.MvxEventSourceActivity
+mvvmcross.platform.droid.views.MvxEventSourceActivity;mvvmcross.platform.droid.views.MvxEventSourceActivity
+MvvmCross.Platform.Droid.Views.MvxEventSourceTabActivity, MvvmCross.Platform.Droid;mvvmcross.platform.droid.views.MvxEventSourceTabActivity
+MvvmCross.Platform.Droid.Views.MvxEventSourceTabActivity, MvvmCross.Platform.Droid, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.platform.droid.views.MvxEventSourceTabActivity
+MvvmCross.Platform.Droid.Views.MvxEventSourceTabActivity;mvvmcross.platform.droid.views.MvxEventSourceTabActivity
+mvvmcross.platform.droid.views.MvxEventSourceTabActivity;mvvmcross.platform.droid.views.MvxEventSourceTabActivity
