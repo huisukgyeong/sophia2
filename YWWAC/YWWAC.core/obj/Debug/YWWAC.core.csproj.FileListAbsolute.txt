@@ -63,7 +63,6 @@ C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.core\bin\Debug\SQLite.Net
 C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.core\bin\Debug\Newtonsoft.Json.xml
 C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.core\obj\Debug\YWWAC.core.dll
 C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.core\obj\Debug\YWWAC.core.pdb
-C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.core\obj\Debug\YWWAC.core.csprojResolveAssemblyReference.cache
 C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.core\obj\Debug\YWWAC.core.dll.mdb
 C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.core\bin\Debug\YWWAC.core.dll.mdb
 C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.core\obj\Debug\YWWAC.core.dll.mdb

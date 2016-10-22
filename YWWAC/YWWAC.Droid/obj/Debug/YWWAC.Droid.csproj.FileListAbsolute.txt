@@ -429,5 +429,15 @@ C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\res\drawa
 C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\res\drawable\final_date.png
 C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\res\drawable\goal_exercise.png
 C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\res\drawable\save_detail2.png
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\res\drawable\check_box.png
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\res\drawable\exercise2.png
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\res\drawable\food.png
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\res\drawable\save.png
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\res\drawable\exercise3.png
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\res\drawable\infor_title.png
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\res\drawable\nurse_.png
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\res\drawable\chatcomm.png
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\res\drawable\bar2.png
+C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\res\drawable\bar1.png
 C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\obj\Debug\YWWAC.Droid.dll.mdb
 C:\Users\huisukgyeong\Source\Repos\sophia2\YWWAC\YWWAC.Droid\bin\Debug\YWWAC.Droid.dll.mdb
